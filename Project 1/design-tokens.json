@@ -1,0 +1,13 @@
+{
+  "name": "Example Design System",
+  "tokens": {
+    "primary-color": "#6366f1",
+    "secondary-color": "#06b6d4",
+    "accent-color": "#f97316",
+    "background-glass": "rgba(255,255,255,0.12)",
+    "border-radius": "8px",
+    "font-family": "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial",
+    "shadow": "0 10px 30px rgba(2,6,23,0.4)",
+    "glass-border": "rgba(255,255,255,0.18)"
+  }
+}
